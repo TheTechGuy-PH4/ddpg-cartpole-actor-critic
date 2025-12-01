@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtualenv
+rl_env/
+venv/
+.env/
+
+# Data / logs / results (keep only if you want them versioned)
+#------------------------------
+# Uncomment to ignore data and results directories
+#------------------------------
+# ddpg_results/
+# *.npy
+
+# OS / editor
+.DS_Store
+.vscode/
